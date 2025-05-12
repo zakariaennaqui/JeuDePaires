@@ -45,10 +45,6 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
 
-## 📸 Capture d’écran
-
-Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
-
 <table>
   <tr>
     <td><img src="assets/img1.png" alt="Capture 1" width="300"/></td>
