@@ -22,8 +22,7 @@ Ce dépôt contient une présentation accessible via le lien suivant :
 
 ## Auteur
 
-Nom : *[zakaria ennaqui]*  
-GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
+Nom : *[zakaria ennaqui]*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
 
 ## 📦 Lancer le projet
 
