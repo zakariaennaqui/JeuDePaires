@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS scores (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(50),
     temps INT
-);
+);```
 
 # Présentation
 
