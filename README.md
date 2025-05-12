@@ -45,18 +45,6 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
 
-<h3>🖼️ Capture 1</h3>
-<img src="assets/Capture%20d'écran%202025-05-12%20185807.png" alt="Capture 1" width="100"/>
-
-<h3>🖼️ Capture 2</h3>
-<img src="assets/Capture%20d'écran%202025-05-12%20185820.png" alt="Capture 2" width="100"/>
-
-<h3>🖼️ Capture 3</h3>
-<img src="assets/Capture%20d'écran%202025-05-12%20185945.png" alt="Capture 3" width="100"/>
-
-<h3>🖼️ Capture 4</h3>
-<img src="assets/Capture%20d'écran%202025-05-12%20190032.png" alt="Capture 4" width="100"/>
-
 ---
 
 # Présentation
