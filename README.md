@@ -46,16 +46,16 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
 
 ### 🖼️
-![🖼️](./assets/Capture d'écran 2025-05-12 185807.png")
+![🖼️]("JeuDePaires\assets\Capture d'écran 2025-05-12 185807.png"")
 
 ### 🖼️
-![🖼️](./assets/Capture d'écran 2025-05-12 185820.png")
+![🖼️](JeuDePaires/assets/Capture d'écran 2025-05-12 185820.png")
 
 ### 🖼️
-![🖼️](./assets/Capture d'écran 2025-05-12 185945.png)
+![🖼️](JeuDePaires/assets/Capture d'écran 2025-05-12 185945.png)
 
 ### 🖼️
-![🖼️](./assets/Capture d'écran 2025-05-12 190032.png)
+![🖼️](JeuDePaires/assets/Capture d'écran 2025-05-12 190032.png)
 
 ---
 
