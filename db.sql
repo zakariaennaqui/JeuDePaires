@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS jeu_paires;
+USE jeu_paires;
+CREATE TABLE IF NOT EXISTS scores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(50),
+    temps INT
+);
