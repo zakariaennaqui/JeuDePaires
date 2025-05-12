@@ -16,12 +16,14 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 (ajoute une capture ici)
 
 # Présentation
-
-Ce dépôt contient une présentation accessible via le lien suivant :  
-👉 [Voir la présentation sur Canva](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👉 [](https://jeudepaires.my.canva.site/)
+👉 [Voir la présentation](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Auteur
 
+Nom : *[AchrafAbdelfadel]*  GitHub : [https://github.com/username](https://github.com/username)
+Nom : *[Samir Ait said]*  GitHub : [https://github.com/username](https://github.com/username)
+Nom : *[Saad El Aroui]*  GitHub : [https://github.com/username](https://github.com/username)
 Nom : *[zakaria ennaqui]*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
 
 ## 📦 Lancer le projet
