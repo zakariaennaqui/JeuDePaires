@@ -29,7 +29,7 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 ## 📁 Structure du projet
 
-jeu-de-paires-java/
+- jeu-de-paires-java/
 - ├── src/
 - │ ├── model/
 - │ ├── view/
@@ -55,10 +55,10 @@ jeu-de-paires-java/
 
 ## Auteur
 
-- Nom : *Achraf Abdelfadel*  GitHub : [https://github.com/abdelfadelAchraf](https://github.com/abdelfadelAchraf)
-- Nom : *Samir Ait said*  GitHub : [https://github.com/username](https://github.com/username)
-- Nom : *Saad El Aroui*  GitHub : [https://github.com/username](https://github.com/username)
-- Nom : *zakaria ennaqui*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
+- Nom : *Achraf Abdelfadel* [https://github.com/abdelfadelAchraf](https://github.com/abdelfadelAchraf)
+- Nom : *Samir Ait said* [https://github.com/username](https://github.com/username)
+- Nom : *Saad El Aroui* [https://github.com/username](https://github.com/username)
+- Nom : *zakaria ennaqui* [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
 
 ---
 
