@@ -23,8 +23,10 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 4. S’assurer que XAMPP/MySQL tourne avec une base `jeu_paires` contenant :
 
 ```sql
-CREATE TABLE scores (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  nom VARCHAR(50),
-  temps INT
+CREATE DATABASE IF NOT EXISTS jeu_paires;
+USE jeu_paires;
+CREATE TABLE IF NOT EXISTS scores (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(50),
+    temps INT
 );
