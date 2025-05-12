@@ -30,14 +30,14 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 ## 📁 Structure du projet
 
 jeu-de-paires-java/
-├── src/
-│ ├── model/
-│ ├── view/
-│ ├── controller/
-│ └── images/
-├── README.md
-├── .gitignore
-└── db.sql
+- ├── src/
+- │ ├── model/
+- │ ├── view/
+- │ ├── controller/
+- │ └── images/
+- ├── README.md
+- ├── .gitignore
+- └── db.sql
 
 ---
 
@@ -55,19 +55,18 @@ jeu-de-paires-java/
 
 ## Auteur
 
-- Nom : *[Achraf Abdelfadel]*  GitHub : [https://github.com/abdelfadelAchraf](https://github.com/abdelfadelAchraf)
-- Nom : *[Samir Ait said]*  GitHub : [https://github.com/username](https://github.com/username)
-- Nom : *[Saad El Aroui]*  GitHub : [https://github.com/username](https://github.com/username)
-- Nom : *[zakaria ennaqui]*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
+- Nom : *Achraf Abdelfadel*  GitHub : [https://github.com/abdelfadelAchraf](https://github.com/abdelfadelAchraf)
+- Nom : *Samir Ait said*  GitHub : [https://github.com/username](https://github.com/username)
+- Nom : *Saad El Aroui*  GitHub : [https://github.com/username](https://github.com/username)
+- Nom : *zakaria ennaqui*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
 
 ---
 
 ## 📦 Lancer le projet
 
 1. Compiler le projet dans Eclipse
-2. Ajouter les images dans `/src/images/`
-3. Lancer `Main.java`
-4. S’assurer que XAMPP/MySQL tourne avec une base `jeu_paires` contenant :
+2. Lancer `Main.java`
+3. S’assurer que XAMPP/MySQL tourne avec une base `jeu_paires` (db.sql) contenant :
 
 ```sql
 CREATE DATABASE IF NOT EXISTS jeu_paires;
