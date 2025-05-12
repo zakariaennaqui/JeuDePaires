@@ -30,13 +30,13 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 ## 📁 Structure du projet
 
 - jeu-de-paires-java/
+- ├── assets/
 - ├── src/
 - │ ├── model/
 - │ ├── view/
 - │ ├── controller/
 - │ └── images/
 - ├── README.md
-- ├── .gitignore
 - └── db.sql
 
 ---
