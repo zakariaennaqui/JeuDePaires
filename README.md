@@ -43,7 +43,19 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 ## 📸 Capture d’écran
 
-(ajoute une capture ici)
+Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
+
+### 🖼️
+![🖼️](./assets/Capture d'écran 2025-05-12 185807.png")
+
+### 🖼️
+![🖼️](./assets/Capture d'écran 2025-05-12 185820.png")
+
+### 🖼️
+![🖼️](./assets/Capture d'écran 2025-05-12 185945.png)
+
+### 🖼️
+![🖼️](./assets/Capture d'écran 2025-05-12 190032.png)
 
 ---
 
