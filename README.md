@@ -1,23 +1,57 @@
-# 🎮 Jeu de Paires - Projet Java (S6)
+# 🎮 Jeu de Paires - Mini Projet Java S6
 
-Mini projet Java desktop - GI S6 - utilisant :
+Projet académique réalisé dans le cadre du module Java (GI S6 - 2024/2025).  
+Ce jeu de mémoire consiste à retrouver toutes les paires d'images en un temps limité, avec 3 essais.
+
+---
+
+## ⚙️ Technologies utilisées
 
 - Java Swing (interface)
-- MVC (architecture)
-- JDBC + MySQL (base de données)
-- Chronomètre + Scores
+- JDBC + MySQL (base de données, connexion MySQL)
+- Modèle MVC (architecture)
+- Interface graphique desktop
+- Gestion de scores avec base de données
+
+---
 
 ## 🧠 Objectif du jeu
 
 Retourner les cartes et retrouver toutes les paires avec un nombre d’essais limité.
+- Une grille 4x4 de cartes retournées
+- Chaque image est présente en double
+- Le joueur doit retrouver toutes les paires
+- 3 essais sont autorisés en cas d’erreur
+- Le temps est chronométré
+- Si le joueur réussit, son score est enregistré en base s’il est dans le top 3
+
+---
+
+## 📁 Structure du projet
+
+jeu-de-paires-java/
+├── src/
+│ ├── model/
+│ ├── view/
+│ ├── controller/
+│ └── images/
+├── README.md
+├── .gitignore
+└── db.sql
+
+---
 
 ## 📸 Capture d’écran
 
 (ajoute une capture ici)
 
+---
+
 # Présentation
-👉 [S](https://jeudepaires.my.canva.site/)
-👉 [Voir la présentation](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👉 [S](https://jeudepaires.my.canva.site/)
+- 👉 [Voir la présentation](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
 
 ## Auteur
 
@@ -25,6 +59,8 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 - Nom : *[Samir Ait said]*  GitHub : [https://github.com/username](https://github.com/username)
 - Nom : *[Saad El Aroui]*  GitHub : [https://github.com/username](https://github.com/username)
 - Nom : *[zakaria ennaqui]*  GitHub : [https://github.com/zakariaennaqui](https://github.com/zakariaennaqui)
+
+---
 
 ## 📦 Lancer le projet
 
