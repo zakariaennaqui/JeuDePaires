@@ -45,13 +45,11 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
 
-<img src="/assets/img1.png" alt="Capture d’écran 1" width="200"/>
-<br/>
-<img src="/assets/img2.png" alt="Capture d’écran 2" width="200"/>
-<br/>
-<img src="/assets/img3.png" alt="Capture d’écran 3" width="200"/>
-<br/>
-<img src="/assets/img4.png" alt="Capture d’écran 4" width="200"/>
+<img src="/assets/img1.png" alt="Capture d’écran 1" width="300"/>
+<img src="/assets/img2.png" alt="Capture d’écran 2" width="300"/>
+</br>
+<img src="/assets/img3.png" alt="Capture d’écran 3" width="300"/>
+<img src="/assets/img4.png" alt="Capture d’écran 4" width="300"/>
 
 ---
 
