@@ -6,10 +6,10 @@ import java.util.List;
 
 public class Plateau {
     private Carte[][] grille; // 4x4
-    //private final int lignes = 4;
-    //private final int colonnes = 4;
-    private final int lignes = 2;
-    private final int colonnes = 2;
+    private final int lignes = 4;
+    private final int colonnes = 4;
+    //private final int lignes = 2;
+    //private final int colonnes = 2;
     public Plateau() {
         grille = new Carte[lignes][colonnes];
         initialiserGrille();
@@ -20,13 +20,13 @@ public class Plateau {
 
         // Liste des noms d'images
         String[] nomsImages = {
-            "img1.png", "img2.png"/*, "img3.png", "img4.png",
-            "img5.png", "img6.png", "img7.png", "img8.png"*/
+            "img1.png", "img2.png", "img3.png", "img4.png",
+            "img5.png", "img6.png", "img7.png", "img8.png"
         };
 
         // Créer 8 paires de cartes (avec images)
-        //for (int i = 0; i < 8; i++) {
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < 8; i++) {
+        //for (int i = 0; i < 2; i++) {
         	cartes.add(new CarteImage(i, nomsImages[i]));
             cartes.add(new CarteImage(i, nomsImages[i]));
             //cartes.add(new Carte(i, nomsImages[i]));

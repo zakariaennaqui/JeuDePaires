@@ -126,8 +126,8 @@ public class JeuFrame extends JFrame {
         infoPanel.add(chronoLabel);
         infoPanel.add(btnScores);
 
-        //JPanel grillePanel = new JPanel(new GridLayout(4, 4, 5, 5));
-        JPanel grillePanel = new JPanel(new GridLayout(2, 2, 5, 5));
+        JPanel grillePanel = new JPanel(new GridLayout(4, 4, 5, 5));
+        //JPanel grillePanel = new JPanel(new GridLayout(2, 2, 5, 5));
         for (int i = 0; i < plateau.getLignes(); i++) {
             for (int j = 0; j < plateau.getColonnes(); j++) {
                 JLabel label = new JLabel();
