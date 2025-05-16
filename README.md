@@ -82,6 +82,7 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/zakariaennaqui/JeuDePaires.git
 cd mini-compiler
+```
 
 ### 2. 📦 Lancer le projet
 
