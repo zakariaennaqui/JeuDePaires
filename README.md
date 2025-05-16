@@ -41,7 +41,7 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 ---
 
-## 📸 Capture d’écran
+## 📸 Démonstration
 
 Voici quelques captures d’écran illustrant les principales fonctionnalités de l'application :
 
@@ -58,7 +58,7 @@ Voici quelques captures d’écran illustrant les principales fonctionnalités d
 
 ---
 
-# Présentation
+## Présentation
 - 👉 [S](https://jeudepaires.my.canva.site/v1)
 - 👉 [Voir la présentation](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -73,7 +73,17 @@ Voici quelques captures d’écran illustrant les principales fonctionnalités d
 
 ---
 
-## 📦 Lancer le projet
+## 🛠 Installation and Usage
+
+### 1. Clone the Repository
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/zakariaennaqui/JeuDePaires.git
+cd mini-compiler
+
+### 2. 📦 Lancer le projet
 
 1. Compiler le projet dans Eclipse
 2. Lancer `Main.java`
