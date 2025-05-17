@@ -29,7 +29,7 @@ Retourner les cartes et retrouver toutes les paires avec un nombre d’essais li
 
 ## 📁 Structure du projet
 ```
-jeu-de-paires-java/
+JeuDePaires/
 ├── assets/
 ├── src/
 │ ├── model/
