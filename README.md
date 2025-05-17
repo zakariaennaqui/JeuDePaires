@@ -75,7 +75,7 @@ Voici quelques captures d’écran illustrant les principales fonctionnalités d
 
 ## 🛠 Installation and Usage
 
-### 1. Clone the Repository
+1.Clone the Repository
 
 Start by cloning the repository to your local machine:
 
@@ -84,11 +84,11 @@ git clone https://github.com/zakariaennaqui/JeuDePaires.git
 cd JeuDePaires
 ```
 
-### 2. 📦 Lancer le projet
+2.📦 Lancer le projet
 
 1. Compiler le projet dans Eclipse
-2. Lancer **Main.java**
-3. S’assurer que XAMPP/MySQL tourne avec une base ***jeu_paires*** (db.sql) contenant :
+2. Lancer *Main.java*
+3. S’assurer que XAMPP/MySQL tourne avec une base *jeu_paires* (db.sql) contenant :
 
 ```sql
 CREATE DATABASE IF NOT EXISTS jeu_paires;
