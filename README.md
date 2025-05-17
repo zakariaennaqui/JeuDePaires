@@ -59,7 +59,7 @@ Voici quelques captures d’écran illustrant les principales fonctionnalités d
 ---
 
 ## Présentation
-- 👉 [S](https://jeudepaires.my.canva.site/v1)
+- 👉 [S](https://jeudepaires.my.canva.site/v2)
 - 👉 [Voir la présentation](https://www.canva.com/design/DAGnEi5glsM/s88q1SNn6aB5TgVOD6Q9UA/edit?utm_content=DAGnEi5glsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
