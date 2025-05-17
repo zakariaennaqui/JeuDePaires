@@ -88,7 +88,7 @@ cd JeuDePaires
 
 1. Compiler le projet dans Eclipse
 2. Lancer **Main.java**
-3. S’assurer que XAMPP/MySQL tourne avec une base `jeu_paires` (db.sql) contenant :
+3. S’assurer que XAMPP/MySQL tourne avec une base ***jeu_paires*** (db.sql) contenant :
 
 ```sql
 CREATE DATABASE IF NOT EXISTS jeu_paires;
